@@ -1,4 +1,4 @@
-with open("Day 2\input.txt",'r') as file:
+with open("Day 2/input.txt",'r') as file:
     data = file.read().splitlines()
     file.close()
 
